@@ -13,6 +13,6 @@
 https://github.com/gulvarol/grocerydataset/blob/master/README.md
 <br>
 <p>The image grocery dataset consists of 4947 images of 10 grocery classes, with 97 to 370 images per class. We considered common categories of groceries that exists in the most homes such as pasta, spices, coffee, etc. The images of the dataset are captured using smartphone cameras at various grocery stores. The images vary in the degree of clutter and real-world lightning conditions, ranging from well-lit stores to kitchen cupboards. Each image in the dataset contains one or multiple instances of one of the 10 classes. Moreover, for each class, we considered a rich variety of brands, flavors, and packaging designs. The images in the dataset are down-scaled into 256 × 256 pixels. Due to different aspect ratios of the cameras, the images are padded with gray borders as needed.</p> 
-
+<img src="https://github.com/mayanku/StoreProductRecognizer/blob/master/Capture.PNG"><br>
   
  
